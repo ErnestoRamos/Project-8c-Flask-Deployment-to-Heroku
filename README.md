@@ -11,3 +11,6 @@ Steps:
 
 
 ![image](https://user-images.githubusercontent.com/56518821/111920636-67efd400-8a66-11eb-8fbd-926e8709cd82.png)
+
+With 5 years experience, and an 8 test score and interview score, the expected salary is ~64k
+![image](https://user-images.githubusercontent.com/56518821/111921844-30d0f100-8a6d-11eb-8b9b-c6dcee464997.png)
