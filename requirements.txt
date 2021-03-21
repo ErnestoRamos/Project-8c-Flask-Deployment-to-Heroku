@@ -6,3 +6,4 @@ scikit-learn==0.23.1
 jsonify==0.5
 flask_render_specific_template==1.0
 Werkzeug==0.16.0
+numpy==1.20.1
