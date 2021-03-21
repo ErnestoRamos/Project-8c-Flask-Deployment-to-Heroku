@@ -1,0 +1,5 @@
+Flask~=1.0
+sklearn==0.0
+scikit-learn==0.23.1
+jsonify==0.5
+flask_render_specific_template==1.0
