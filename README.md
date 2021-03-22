@@ -3,7 +3,7 @@
 This is a demo on how to deploy your ML flask application to heroku.
 
 Steps: 
-1. Using the files we already have from running flask locally, add 
+1. Using the files we already have from running flask locally, add a Procfile and update requirements.txt to include click, gunicorn and werkzeug
 2. Upload files to github
 3. In heroku, make a new application and connect to your github repository
 4. Select the appropriate branch and deploy
